@@ -1,0 +1,7 @@
+﻿  { 
+  "name":Dfw-Ice"",
+  "website": "https://github.com/Dfw-Ice",
+  "logo": "https://raw.githubusercontent.com/Dfw-Icei/chainbase-testnet/main/Logo.png",
+  "description": "unified staking of mentorship DAO",
+  "twitter": "https://twitter.com/idgaf_ice"
+  }
